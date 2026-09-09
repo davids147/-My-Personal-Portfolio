@@ -95,7 +95,7 @@ export const Hero = () => {
               <Button size="lg">
                 Contact Me <ArrowRight className="w-5 h-5" />
               </Button>
-              <a href="public/David_sarella.pdf" target="_blank" rel="noopener noreferrer">
+              <a href="/David_sarella.pdf" target="_blank" rel="noopener noreferrer">
               <AnimatedBorderButton>
                 <Download className="w-5 h-5" />
                 Download CV
