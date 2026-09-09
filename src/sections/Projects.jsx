@@ -14,7 +14,7 @@ const projects = [
     title: "Project-2",
     description:
       "A full-featured e-commerce solution with inventory management, payment processing, and analytics dashboard.",
-    image: "/projects/",
+    image: "/bike-thumbnail.avif",
     tags: ["Next.js", "Stripe", "PostgreSQL", "Tailwind"],
     link: "#",
     github: "#",
@@ -23,7 +23,7 @@ const projects = [
     title: "Project-3",
     description:
       "An intelligent writing tool powered by GPT-4, helping users create better content faster.",
-    image: "/projects/",
+    image: "/video-editing.jpg",
     tags: ["React", "OpenAI", "Python", "FastAPI"],
     link: "#",
     github: "#",
@@ -32,7 +32,7 @@ const projects = [
     title: "Project-4",
     description:
       "A collaborative workspace for teams with real-time updates, task tracking, and integrations.",
-    image: "/projects/",
+    image: "/business.jpg",
     tags: ["Next.js", "Socket.io", "MongoDB", "Redis"],
     link: "#",
     github: "#",
