@@ -5,7 +5,7 @@ const projects = [
     title: "Project-1",
     description:
       "A comprehensive financial analytics platform with real-time data visualization, portfolio management, and AI-powered insights.",
-    image: "/projects/",
+    image: "/thumbnail.jpg",
     tags: ["React", "Typescript", "NodeJS"],
     link: "#",
     github: "https://github.com/davids147/-My-Personal-Portfolio",
