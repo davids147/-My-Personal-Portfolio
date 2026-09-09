@@ -8,7 +8,7 @@ const testimonials = [
     author: "David Sarella",
     role: "CEO, Innovation Hub",
     avatar:
-      "public/IMG_5465.JPG",
+      "/IMG_5465.JPG",
   },
     {
     quote:
