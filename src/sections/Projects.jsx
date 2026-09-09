@@ -8,7 +8,7 @@ const projects = [
     image: "/projects/",
     tags: ["React", "Typescript", "NodeJS"],
     link: "#",
-    github: "#",
+    github: "https://github.com/davids147/-My-Personal-Portfolio",
   },
   {
     title: "Project-2",
